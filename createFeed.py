@@ -7,7 +7,7 @@ import glob
 
 ########################################################
 
-FULL_USERNAME = "e.l.callander" 
+FULL_USERNAME = "elizabeth.callander" 
 
 ############################################################
 # Find .php file
